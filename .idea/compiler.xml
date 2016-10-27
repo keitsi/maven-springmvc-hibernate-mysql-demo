@@ -25,8 +25,8 @@
         <module name="maven-springmvc-hibernate-mysql-demo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="maven-springmvc-hibernate-mysql-demo" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="maven-springmvc-hibernate-mysql-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
