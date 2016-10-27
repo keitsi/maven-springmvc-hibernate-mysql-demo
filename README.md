@@ -1,5 +1,5 @@
 # maven-springmvc-hibernate-mysql-demo
-a simple maven base Spring MVC web project Hibernate and My SQL
+a simple maven base Spring MVC web project
 
 #### Modules and version:
 * IDEA Ultimate: 2016
