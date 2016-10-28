@@ -10,3 +10,4 @@ a simple maven base Spring MVC web project
 * Learning how to config a maven base Spring MVC web project
 * Learning how to map database table to object
 * Learning how to manipulate data using Hibernate
+* Learning how to filter unauthorized access using interceptor
