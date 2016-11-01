@@ -2,6 +2,7 @@
 a simple maven base Spring MVC web project
 
 #### Modules and version:
+* JDK: 1.8
 * IDEA Ultimate: 2016
 * Spring MVC: 4.3.3
 * Hibernate: 5.2.3
